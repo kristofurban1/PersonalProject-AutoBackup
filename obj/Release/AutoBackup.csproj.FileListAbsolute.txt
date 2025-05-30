@@ -1,0 +1,9 @@
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\bin\Release\AutoBackup.exe.config
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\bin\Release\AutoBackup.exe
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\bin\Release\AutoBackup.pdb
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\obj\Release\AutoBackup.csprojAssemblyReference.cache
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\obj\Release\AutoBackup.Form1.resources
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\obj\Release\AutoBackup.Properties.Resources.resources
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\obj\Release\AutoBackup.csproj.GenerateResource.cache
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\obj\Release\AutoBackup.exe
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\obj\Release\AutoBackup.pdb

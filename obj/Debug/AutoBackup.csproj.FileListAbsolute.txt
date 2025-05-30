@@ -1,0 +1,28 @@
+C:\Users\Turby\Desktop\Visual Projects\Projects\AutoBackup\bin\Debug\AutoBackup.exe.config
+C:\Users\Turby\Desktop\Visual Projects\Projects\AutoBackup\bin\Debug\AutoBackup.exe
+C:\Users\Turby\Desktop\Visual Projects\Projects\AutoBackup\bin\Debug\AutoBackup.pdb
+C:\Users\Turby\Desktop\Visual Projects\Projects\AutoBackup\obj\Debug\AutoBackup.csprojAssemblyReference.cache
+C:\Users\Turby\Desktop\Visual Projects\Projects\AutoBackup\obj\Debug\AutoBackup.Form1.resources
+C:\Users\Turby\Desktop\Visual Projects\Projects\AutoBackup\obj\Debug\AutoBackup.Properties.Resources.resources
+C:\Users\Turby\Desktop\Visual Projects\Projects\AutoBackup\obj\Debug\AutoBackup.csproj.GenerateResource.cache
+C:\Users\Turby\Desktop\Visual Projects\Projects\AutoBackup\obj\Debug\AutoBackup.exe
+C:\Users\Turby\Desktop\Visual Projects\Projects\AutoBackup\obj\Debug\AutoBackup.pdb
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\obj\Debug\AutoBackup.csprojAssemblyReference.cache
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\obj\Debug\AutoBackup.Form1.resources
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\obj\Debug\AutoBackup.Properties.Resources.resources
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\obj\Debug\AutoBackup.csproj.GenerateResource.cache
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\obj\Debug\AutoBackup.exe
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\obj\Debug\AutoBackup.pdb
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\bin\Debug\AutoBackup.exe.config
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\bin\Debug\AutoBackup.exe
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\AutoBackup\bin\Debug\AutoBackup.pdb
+D:\UserFiles\Documents\Programming\C#\AutoBackup\bin\Debug\AutoBackup.exe.config
+D:\UserFiles\Documents\Programming\C#\AutoBackup\bin\Debug\AutoBackup.exe
+D:\UserFiles\Documents\Programming\C#\AutoBackup\bin\Debug\AutoBackup.pdb
+D:\UserFiles\Documents\Programming\C#\AutoBackup\obj\Debug\AutoBackup.csproj.AssemblyReference.cache
+D:\UserFiles\Documents\Programming\C#\AutoBackup\obj\Debug\AutoBackup.Form1.resources
+D:\UserFiles\Documents\Programming\C#\AutoBackup\obj\Debug\AutoBackup.Properties.Resources.resources
+D:\UserFiles\Documents\Programming\C#\AutoBackup\obj\Debug\AutoBackup.csproj.GenerateResource.cache
+D:\UserFiles\Documents\Programming\C#\AutoBackup\obj\Debug\AutoBackup.csproj.CoreCompileInputs.cache
+D:\UserFiles\Documents\Programming\C#\AutoBackup\obj\Debug\AutoBackup.exe
+D:\UserFiles\Documents\Programming\C#\AutoBackup\obj\Debug\AutoBackup.pdb
